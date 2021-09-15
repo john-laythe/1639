@@ -1,0 +1,17 @@
+Parish Cameras
+Cam01  Parish Exterior South
+Cam02  Parish Exterior North
+Cam03  Parish Exterior Manahan
+Cam04  Gym Roof SE Corner
+Cam05  White Doors
+Cam06  Gym Roof Blue Doors
+Cam07  Parish North Side Door
+Cam08  Parish Roof Brown Door
+Cam09  Parish Interior North
+Cam10  Parish Interior South
+Cam11  Brown Doors Interior North
+Cam12  Brown Doors Interior South
+Cam13  Parish Office Interior
+Cam14  Faulty Cross Channel
+Cam15  Parish Hallway West
+Cam16  Parish Hallway East
